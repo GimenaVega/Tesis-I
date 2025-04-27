@@ -1,0 +1,28 @@
+---
+title: "Caracterización de la pérdida de función de los genes que codifican enzimas de la vía de isoprenoides de mevalonato (MVA) en Arabidopsis thaliana"
+author: "Gimena_Vega"
+format: html
+html:
+   toc: true
+   toc-location: left
+   embed-resources: true
+   number-sections: true
+   output-file: index
+   theme: darkly
+editor_options: 
+  chunk_output_type: console
+output: html_document
+---
+
+**Formulacion del problema**
+La vía de mevalanato (MVA) es fundamental para la biosíntesis de isopreniodes, compuestos esenciales para el crecimiento, desarrollo y adaptación de plantas. En Arabidopsis thaliana, se desconoce en grandes detalles el impacto que tiene la pérdida de función de los genes que codifican las enzimas de esta vía molecular, fisiológicos y fenotípicos de las plantas. Con ello nos podemos preguntar ¿Cómo afecta la pérdida de función de estos genes la expresión genética asociada a la vía de mevalanato (MVA)? ¿Qué cambios fenotípicos se manifiestan en líneas mutantes homocigotas? ¿Cuáles son las características genotípicas de estos mutantes? 
+
+**Objetivo general**
+Caracterizar de la pérdida de función de los genes que codifican enzimas de la vía de isoprenoides de mevalonato (MVA) en Arabidopsis thaliana.
+
+**Objetivos especificos**
+Genotipar mutantes de los de genes que codifican enzimas de la vía de isoprenoides de mevalonato (MVA) en Arabidopsis thaliana.
+
+Evaluar el perfil de expresión génica de mutantes que codifican enzimas de la vía de isoprenoides de mevalonato (MVA) en Arabidopsis thaliana.
+
+Fenotipar líneas mutantes homocigotas de los de genes que codifican enzimas de la vía de isoprenoides de mevalonato (MVA) en Arabidopsis thaliana.
