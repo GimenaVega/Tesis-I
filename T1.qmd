@@ -34,11 +34,17 @@ Caracterizar de la pérdida de función de los genes que codifican enzimas de la
 
 <p align="justify">
 Genotipar mutantes de los de genes que codifican enzimas de la vía de isoprenoides de mevalonato (MVA) en <em>Arabidopsis thaliana</em>.
+</p>
 
+
+<p align="justify">
 Evaluar el perfil de expresión génica de mutantes que codifican enzimas de la vía de isoprenoides de mevalonato (MVA) en <em>Arabidopsis thaliana</em>.
+</p>
 
+<p align="justify">
 Fenotipar líneas mutantes homocigotas de los de genes que codifican enzimas de la vía de isoprenoides de mevalonato (MVA) en <em>Arabidopsis thaliana</em>.
 </p>
+
 
 REFERENCIAS BIBLIOGRAFICAS 
 
