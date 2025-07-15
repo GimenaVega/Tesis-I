@@ -2298,7 +2298,7 @@ Se utilizará un libro digital y físico para la toma de datos
 -	Registros de estrés reducido.
 -	Análisis de metabolitos.
 
-# Referencias
+# REFERENCIAS
 
 Kasahara, H., Hanada, A., Kuzuyama, T., Takagi, M., Kamiya, Y., & Yamaguchi, S. (2002). Contribution of the Mevalonate and Methylerythritol Phosphate Pathways to the Biosynthesis of Gibberellins in Arabidopsis. Journal of Biological Chemistry, 277, 45188–45194. https://doi.org/10.1074/jbc.M208659200
 
